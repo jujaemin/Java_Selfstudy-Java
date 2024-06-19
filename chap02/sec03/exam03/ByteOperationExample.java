@@ -16,7 +16,6 @@ public class ByteOperationExample {
 		// byte result3 = x + y; 컴파일 에러
 		System.out.println(result2);
 		
-		// 모든 변수가 int 타입으로 바뀌는 것이 아니라 허용 범위가 더 큰 타입으로 변환되어 연산이 수행됨
 		
 	}
 
